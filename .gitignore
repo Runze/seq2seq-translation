@@ -1,3 +1,5 @@
 .DS_Store
 training/
-output/
+.ipynb_checkpoints/
+*.hdf5
+*.h5

@@ -1,0 +1,504 @@
+Training sequences 0.0 % to 1.0 %
+First sentence in English: when the capital development of a country becomes a by product of the activities of a casino the job is likely to be ill done '
+First sentence in French: lorsque dans un pays le capital devient le sous produit de l'activité d'un casino il risque de UNK en des conditions UNK
+Epoch 1/1
+24s - loss: 3.5464 - acc: 0.5552
+Training sequences 1.0 % to 2.0 %
+First sentence in English: it was quite some programme i am sure you would agree and it clearly shows what the zimbabwean authorities mean by the word order
+First sentence in French: tout un programme n'est ce pas ce qui montre bien quelle conception les autorités zimbabwéennes ont de l'ordre
+Epoch 1/1
+24s - loss: 3.6575 - acc: 0.5440
+Training sequences 2.0 % to 3.0 %
+First sentence in English: everybody sensible has made the point that it is at the least unwise for us to lecture the islamic world as though we had a monopoly of virtue
+First sentence in French: toute personne raisonnable a déclaré qu'il était à tout le moins déraisonnable de donner des leçons au monde islamique comme si nous avions le monopole de la vertu
+Epoch 1/1
+24s - loss: 3.4755 - acc: 0.5719
+Training sequences 3.0 % to 4.0 %
+First sentence in English: therefore how will he police the new rules in this house
+First sentence in French: comment pourrait il donc veiller au respect des nouvelles règles au sein de l’assemblée
+Epoch 1/1
+24s - loss: 3.5518 - acc: 0.5599
+Training sequences 4.0 % to 5.0 %
+First sentence in English: we should also have something to say about the positive elements
+First sentence in French: il faut aussi souligner les éléments positifs
+Epoch 1/1
+24s - loss: 3.4579 - acc: 0.5652
+Training sequences 5.0 % to 6.0 %
+First sentence in English: the opinion which i have drawn up on behalf of the committee on development and cooperation contains all our detailed proposals in this context
+First sentence in French: le rapport pour avis que j'ai rédigé au nom de la commission du développement et de la coopération contient toutes les propositions de détail que nous avons formulées en ce sens
+Epoch 1/1
+24s - loss: 3.6898 - acc: 0.5387
+Training sequences 6.0 % to 7.0 %
+First sentence in English: without agreement on revision financing for these priorities has been difficult to find
+First sentence in French: sans un accord sur la révision le financement de ces activités s'est avéré difficile
+Epoch 1/1
+24s - loss: 3.4819 - acc: 0.5639
+Training sequences 7.0 % to 8.0 %
+First sentence in English: my group also attaches importance to the provisions that are designed to increase transparency
+First sentence in French: mon groupe attache également beaucoup d'importance aux dispositions sur le renforcement de la transparence
+Epoch 1/1
+24s - loss: 3.5547 - acc: 0.5538
+Training sequences 8.0 % to 9.0 %
+First sentence in English: if so should we then not abandon once and for all the constant pretence that low taxes and open markets amount to the same thing as low environmental and social standards
+First sentence in French: si oui ne devrions nous donc pas cesser de prétendre une fois pour toutes que des taxes peu élevées et des marchés ouverts sont synonymes de normes sociales et environnementales peu élevées
+Epoch 1/1
+24s - loss: 3.6183 - acc: 0.5454
+Training sequences 9.0 % to 10.0 %
+First sentence in English: they assure me of that
+First sentence in French: il me UNK
+Epoch 1/1
+24s - loss: 3.5971 - acc: 0.5494
+Training sequences 10.0 % to 11.0 %
+First sentence in English: for years the commission has faced ever increasing tasks which have had to be dealt with without additional human resources
+First sentence in French: cela fait des années que la commission se voit sans cesse confier de nouvelles tâches sans modification de ses effectifs
+Epoch 1/1
+24s - loss: 3.5990 - acc: 0.5481
+Training sequences 11.0 % to 12.0 %
+First sentence in English: this is important because 80 of the appropriations in the budget are administered in the member states
+First sentence in French: c'est important vu que 80 pour cent des crédits budgétaires sont gérés dans les États membres
+Epoch 1/1
+24s - loss: 3.5453 - acc: 0.5565
+Training sequences 12.0 % to 13.0 %
+First sentence in English: with its new competence in the area of sport the european union should take an active role in implementing promoting and supporting the obligations under this forthcoming agreement
+First sentence in French: avec ses nouvelles compétences en matière sportive elle devrait jouer un rôle actif dans la mise en œuvre la promotion et le soutien des obligations découlant de ce futur accord
+Epoch 1/1
+24s - loss: 3.4649 - acc: 0.5636
+Training sequences 13.0 % to 14.0 %
+First sentence in English: i believe that this will help to resolve the problem you describe
+First sentence in French: je crois que cela contribuera à résoudre le problème que vous venez de décrire
+Epoch 1/1
+24s - loss: 3.4891 - acc: 0.5636
+Training sequences 14.0 % to 15.0 %
+First sentence in English: companies with the lowest labour and environmental costs will then be able to steal the market from their competitors wealthy countries will become richer at the expense of the poorest and the number of those excluded will grow at national level and world level
+First sentence in French: les entreprises qui dépensent le moins pour leur main d' uvre et pour l'environnement pourront UNK leurs UNK les pays riches ne cesseront de s'enrichir au détriment des plus pauvres et le groupe des exclus continuera à s'élargir tant au niveau national qu'à l'échelle mondiale
+Epoch 1/1
+24s - loss: 3.5283 - acc: 0.5599
+Training sequences 15.0 % to 16.0 %
+First sentence in English: it is an industry that is well organised and well managed but it is in crisis due to infectious salmon UNK
+First sentence in French: il s'agit d'une industrie bien organisée et bien gérée mais elle traverse actuellement une crise provoquée par UNK UNK du saumon
+Epoch 1/1
+24s - loss: 3.5768 - acc: 0.5560
+Training sequences 16.0 % to 17.0 %
+First sentence in English: to conclude could i urge that europe demonstrate tangible capacity to deliver decent living and working conditions
+First sentence in French: pour conclure puis je inviter l'europe à faire preuve d'une capacité tangible à assurer des conditions de vie et de travail décentes
+Epoch 1/1
+24s - loss: 3.5636 - acc: 0.5535
+Training sequences 17.0 % to 18.0 %
+First sentence in English: the first commercial applications of genetic engineering involved UNK above average pesticide resistance to soya and maize varieties
+First sentence in French: les premières applications commerciales du génie génétique portent sur des variétés de soja et de maïs qui UNK mieux que la moyenne aux pesticides
+Epoch 1/1
+24s - loss: 3.5996 - acc: 0.5477
+Training sequences 18.0 % to 19.0 %
+First sentence in English: since 2000 freelance interpreters have been linked to the staff regulations after the decision of the council of ministers that they can pay community tax instead of national taxes on their income from the european institutions
+First sentence in French: depuis 2000 les interprètes UNK sont liés au statut après que le conseil des ministres avait décidé qu'ils pouvaient payer l'impôt communautaire au lieu des impôts nationaux sur leurs revenus issus des institutions européennes
+Epoch 1/1
+24s - loss: 3.5086 - acc: 0.5593
+Training sequences 19.0 % to 20.0 %
+First sentence in English: without the input from women the idea of the big european family is meaningless
+First sentence in French: sans uvre des femmes l' idée de la grande famille européenne est inimaginable
+Epoch 1/1
+24s - loss: 3.6325 - acc: 0.5445
+Training sequences 20.0 % to 21.0 %
+First sentence in English: so not only is the call for more equitable burden sharing as regards receiving refugees justified but also burden sharing itself is an expression of solidarity between the peoples of europe
+First sentence in French: en conséquence la demande de plus d' équité dans la répartition des charges de l' accueil des réfugiés n' est pas seulement une demande légitime la répartition des charges est l' expression de cette solidarité des peuples d' europe
+Epoch 1/1
+24s - loss: 3.5850 - acc: 0.5529
+Training sequences 21.0 % to 22.0 %
+First sentence in English: it means independence for europe from the united states and therefore greater autonomy for nato
+First sentence in French: plus de démocratie implique également l'indépendance de l'europe vis à vis des États unis et donc l'autonomie de l'otan
+Epoch 1/1
+24s - loss: 3.6532 - acc: 0.5486
+Training sequences 22.0 % to 23.0 %
+First sentence in English: it was necessary to alleviate the distress that was caused by the implementation of regulation ec no 2320 2002 of 16 december 2002 establishing common rules in the field of civil aviation security
+First sentence in French: il a été nécessaire UNK les problèmes provoqués par la mise en œuvre du règlement ce UNK 2002 du 16 décembre 2002 relatif à l’instauration de règles communes dans le domaine de la sûreté de l’aviation civile
+Epoch 1/1
+24s - loss: 3.5044 - acc: 0.5630
+Training sequences 23.0 % to 24.0 %
+First sentence in English: a very rough realistic approximation would be about eur 400 UNK i e approximately eur 1 000 per european citizen at today's prices this includes every child born in the european union during the next 15 to 20 years
+First sentence in French: une estimation réaliste très UNK serait de quelque 400 à UNK d’euros c’est à dire aux prix actuels environ UNK par citoyen européen y compris par enfant à naître dans l’union européenne au cours des 15 à UNK années
+Epoch 1/1
+24s - loss: 3.6466 - acc: 0.5456
+Training sequences 24.0 % to 25.0 %
+First sentence in English: mr president allow me to make a final remark on external representation
+First sentence in French: monsieur le président permettez moi de faire une dernière remarque à propos de la représentation extérieure
+Epoch 1/1
+24s - loss: 3.4838 - acc: 0.5643
+Training sequences 25.0 % to 26.0 %
+First sentence in English: in view of the total ban on chapter 2 aircraft from 1 april 2002 and the serious noise pollution caused by aeroplanes the rules must under no circumstances be stretched
+First sentence in French: Étant donnée l'interdiction s'appliquant aux avions du chapitre 2 qui doit entrer en vigueur le 1er avril 2002 et les graves perturbations sonores que les avions UNK les règles ne peuvent en aucun cas être assouplies
+Epoch 1/1
+24s - loss: 3.4370 - acc: 0.5725
+Training sequences 26.0 % to 27.0 %
+First sentence in English: this is where the european globalisation adjustment fund comes in
+First sentence in French: c'est ici qu'intervient le fonds européen d'ajustement à la mondialisation
+Epoch 1/1
+24s - loss: 3.4958 - acc: 0.5623
+Training sequences 27.0 % to 28.0 %
+First sentence in English: i congratulate the agency on its work in disseminating prevention methods in the field of health and safety at work in the eu
+First sentence in French: je félicite l'agence pour son travail dans la diffusion de méthodes de prévention dans le domaine de la sécurité et de la santé au travail dans l'ue
+Epoch 1/1
+24s - loss: 3.4180 - acc: 0.5694
+Training sequences 28.0 % to 29.0 %
+First sentence in English: reasons for this can be the lack of development of services facilitating the balance between private life and work activities as well as the tough competitive environment in which networks matter very much
+First sentence in French: ceci peut UNK par le manque de développement des services facilitant l'équilibre entre vie privée et activité professionnelle ainsi que par un environnement concurrentiel rude dans lequel les réseaux ont énormément d'importance
+Epoch 1/1
+24s - loss: 3.5429 - acc: 0.5564
+Training sequences 29.0 % to 30.0 %
+First sentence in English: our regulatory framework which has been in place since 2003 establishes conditions for competition investment growth and jobs while guaranteeing basic consumer rights
+First sentence in French: notre cadre normatif qui est en vigueur depuis 2003 établit les conditions pour la concurrence les investissements la croissance et l’emploi tout en garantissant les droits fondamentaux des consommateurs
+Epoch 1/1
+24s - loss: 3.4771 - acc: 0.5660
+Training sequences 30.0 % to 31.0 %
+First sentence in English: what does the president in office think of the suggestion that the german presidency together with the european commission of course select and recommend the best examples in europe
+First sentence in French: que pense le président en exercice d'une suggestion qui consisterait à demander à la présidence allemande conjointement avec la commission européenne cela va de soi de sélectionner et recommander les meilleurs exemples en europe
+Epoch 1/1
+24s - loss: 3.4708 - acc: 0.5645
+Training sequences 31.0 % to 32.0 %
+First sentence in English: i assume that the council would then also accept this solution
+First sentence in French: je suppose que le cas échéant le conseil acceptera à son tour cette solution
+Epoch 1/1
+24s - loss: 3.5732 - acc: 0.5564
+Training sequences 32.0 % to 33.0 %
+First sentence in English: i note with pleasure that even my country which i represent will increase its strength in this parliament
+First sentence in French: ce n'est pas sans plaisir que je constate que même mon pays que je représente augmentera sa force au sein de ce parlement
+Epoch 1/1
+24s - loss: 3.4995 - acc: 0.5623
+Training sequences 33.0 % to 34.0 %
+First sentence in English: this choice has been made to guarantee the pillars of europe peace and freedom we cannot guarantee these pillars unless enlargement occurs in a strong open and constructive way
+First sentence in French: ce choix vise à garantir les piliers de notre europe à savoir la paix et la liberté et il est impossible de garantir ces piliers si l'élargissement ne se fait pas de la manière la plus constructive la plus ouverte et la plus forte possible
+Epoch 1/1
+24s - loss: 3.5624 - acc: 0.5526
+Training sequences 34.0 % to 35.0 %
+First sentence in English: the reason should ideally be given in the answers to the complaints and i want to ask if that is in fact the case as otherwise matters would be very frustrating as has already been pointed out
+First sentence in French: idéalement la raison devrait en être donnée dans les réponses aux plaintes et je voudrais demander si cela est effectivement le cas sinon il n'y aurait que frustrations comme cela a déjà été signalé
+Epoch 1/1
+24s - loss: 3.5942 - acc: 0.5495
+Training sequences 35.0 % to 36.0 %
+First sentence in English: are there any plans to bring europol under democratic control
+First sentence in French: y a t il des plans visant à placer europol sous contrôle démocratique
+Epoch 1/1
+24s - loss: 3.5384 - acc: 0.5576
+Training sequences 36.0 % to 37.0 %
+First sentence in English: nevertheless for certain members states the proposed directive which is currently on the table goes too far they see its objectives as overly ambitious
+First sentence in French: cependant pour certains États membres la proposition de directive qui est actuellement sur la table va trop loin ses objectifs leur paraissent trop ambitieux
+Epoch 1/1
+24s - loss: 3.5311 - acc: 0.5576
+Training sequences 37.0 % to 38.0 %
+First sentence in English: thank you mrs hassi
+First sentence in French: je vous remercie madame UNK
+Epoch 1/1
+24s - loss: 3.5822 - acc: 0.5532
+Training sequences 38.0 % to 39.0 %
+First sentence in English: no
+First sentence in French: non
+Epoch 1/1
+24s - loss: 3.4420 - acc: 0.5670
+Training sequences 39.0 % to 40.0 %
+First sentence in English: my personal UNK i emphasise my personal UNK that any ideas that can enrich the popular legitimacy of the new treaty will be interesting and valuable proposals but of course there are some national systems that can hold referendums of this type and other systems that cannot
+First sentence in French: mon opinion UNK et j’insiste mon opinion UNK est que toutes les idées pouvant participer à la légitimité populaire du nouveau traité constitueront des propositions intéressantes et précieuses mais il va de soi que certains systèmes nationaux peuvent tenir des référendums de ce type et d’autres pas
+Epoch 1/1
+24s - loss: 3.5286 - acc: 0.5591
+Training sequences 40.0 % to 41.0 %
+First sentence in English: it is true and i recognise mr von boetticher is right that the ratification process for this convention is going to be slow and cumbersome because we know that all conventions under title 6 of the treaty have been extremely slow and cumbersome
+First sentence in French: il est vrai je reconnais que m von UNK a raison que le processus de ratification de cette convention sera lent et lourd car nous savons que dans le cadre du titre 6 du traité toutes les conventions ont été extrêmement lentes et lourdes
+Epoch 1/1
+24s - loss: 3.4494 - acc: 0.5702
+Training sequences 41.0 % to 42.0 %
+First sentence in English: this would certainly help us get to know one another and would bring the citizens of europe closer to europe's institutions
+First sentence in French: cela nous permettrait d’apprendre à nous connaître et UNK les citoyens d’europe des institutions européennes
+Epoch 1/1
+24s - loss: 3.4961 - acc: 0.5664
+Training sequences 42.0 % to 43.0 %
+First sentence in English: i can compare the use of quotas with antibiotics
+First sentence in French: je peux comparer l'utilisation des quotas aux antibiotiques
+Epoch 1/1
+24s - loss: 3.4857 - acc: 0.5642
+Training sequences 43.0 % to 44.0 %
+First sentence in English: the extraordinary european council meeting in tampere in 1999 agreed in that common definitions common UNK and common sanctions should be established in a limited number of sectors of particular importance and among those sectors it highlighted the environmental crime issue
+First sentence in French: le conseil européen extraordinaire de tampere a conclu en 1999 que des définitions communes des UNK communes et des sanctions communes devaient être établies dans un nombre limité de secteurs particulièrement importants l'accent étant mis sur le problème de la criminalité écologique
+Epoch 1/1
+24s - loss: 3.5292 - acc: 0.5618
+Training sequences 44.0 % to 45.0 %
+First sentence in English: amendments nos 84 and 90 should also be rejected since they could lead to a situation where it is not possible to contract with a company which is trying to re establish itself financially
+First sentence in French: les amendements 84 et 90 doivent également être rejetés car ils pourraient amener à une situation dans laquelle il serait impossible de passer contrat avec une entreprise qui tente de se rétablir sur le plan financier
+Epoch 1/1
+24s - loss: 3.6403 - acc: 0.5506
+Training sequences 45.0 % to 46.0 %
+First sentence in English: structural measures are important but they are not enough in themselves to solve economic problems in the northern regions
+First sentence in French: les mesures structurelles sont importantes mais elles ne suffisent pas pour résoudre les problèmes de rentabilité des régions nordiques
+Epoch 1/1
+24s - loss: 3.6355 - acc: 0.5532
+Training sequences 46.0 % to 47.0 %
+First sentence in English: what are the options left to those mediating parties
+First sentence in French: quelles sont donc les options restantes pour les deux parties en présence
+Epoch 1/1
+24s - loss: 3.6020 - acc: 0.5530
+Training sequences 47.0 % to 48.0 %
+First sentence in English: we would really like to know
+First sentence in French: on aimerait bien savoir
+Epoch 1/1
+24s - loss: 3.6220 - acc: 0.5490
+Training sequences 48.0 % to 49.0 %
+First sentence in English: this is the case in many of the constitutions of the member states and they must come together in a single effort to cover the status of european citizenship the fundamental rights of citizens immigration asylum refuge managing the eu's external borders and judicial cooperation
+First sentence in French: c'est le cas dans de nombreuses constitutions des États membres et elles doivent se fondre en un effort visant à couvrir le statut de la citoyenneté européenne les droits fondamentaux des citoyens l'immigration l'asile les réfugiés la gestion des frontières extérieures de l'ue et la coopération judiciaire
+Epoch 1/1
+24s - loss: 3.4586 - acc: 0.5660
+Training sequences 49.0 % to 50.0 %
+First sentence in English: can the commissioner please comment
+First sentence in French: le commissaire pourrait il commenter
+Epoch 1/1
+24s - loss: 3.6255 - acc: 0.5510
+Training sequences 50.0 % to 51.0 %
+First sentence in English: following the blocking by the administration this obligation has not been met since july
+First sentence in French: par suite de UNK de l'administration cette obligation n'est pas remplie depuis le mois de juillet
+Epoch 1/1
+24s - loss: 3.6259 - acc: 0.5532
+Training sequences 51.0 % to 52.0 %
+First sentence in English: the danger of chemical contamination especially during combustion is indeed high and hence the justification for the protection advised by western military UNK available on the internet
+First sentence in French: le danger de contamination chimique notamment lors de sa combustion est effectivement important il justifie les protections UNK par les manuels militaires occidentaux disponibles sur internet
+Epoch 1/1
+24s - loss: 3.6096 - acc: 0.5515
+Training sequences 52.0 % to 53.0 %
+First sentence in English: it follows that we shall not support the joint resolution and we shall table
+First sentence in French: nous ne nous UNK donc pas à la résolution commune et UNK des
+Epoch 1/1
+24s - loss: 3.5200 - acc: 0.5626
+Training sequences 53.0 % to 54.0 %
+First sentence in English: if the european parliament wanted to show that it represents progress at least on this point it should make its position clear
+First sentence in French: si le parlement européen voulait montrer qu'au moins sur ce point il représente le progrès il devrait prendre clairement position
+Epoch 1/1
+24s - loss: 3.5230 - acc: 0.5596
+Training sequences 54.0 % to 55.0 %
+First sentence in English: we must work UNK to convince our own consumers and customers in exports markets that our beef is safe and wholesome
+First sentence in French: nous ne devons ménager aucun effort pour convaincre nos consommateurs et les clients de marchés d'exportation que notre boeuf est sain et salutaire
+Epoch 1/1
+24s - loss: 3.5568 - acc: 0.5596
+Training sequences 55.0 % to 56.0 %
+First sentence in English: and the free movement of goods and capital is a veritable gift to the drug traffickers
+First sentence in French: par ailleurs la libre circulation des marchandises et des capitaux est une véritable UNK pour les trafiquants
+Epoch 1/1
+24s - loss: 3.4809 - acc: 0.5633
+Training sequences 56.0 % to 57.0 %
+First sentence in English: so what does this network involve
+First sentence in French: dès lors que recouvre ce réseau
+Epoch 1/1
+24s - loss: 3.6457 - acc: 0.5448
+Training sequences 57.0 % to 58.0 %
+First sentence in English: pl mr president korea is one of the leading economies in the world but at the same time it has the greatest difference in income among the oecd states
+First sentence in French: pl monsieur le président la corée figure dans le UNK de tête des économies mondiales mais affiche également le plus grand écart de revenus par rapport aux autres pays de l'ocde
+Epoch 1/1
+24s - loss: 3.5989 - acc: 0.5545
+Training sequences 58.0 % to 59.0 %
+First sentence in English: this was the case with my report on the partsession which was discussed this week and it was especially the case with your own report on the voting system
+First sentence in French: et j'ai pourtant l'impression que c'est le cas cela concerne mon rapport qui a déjà fait l'objet de débats en séance plénière cette semaine mais surtout votre rapport relatif au régime électoral
+Epoch 1/1
+24s - loss: 3.5457 - acc: 0.5574
+Training sequences 59.0 % to 60.0 %
+First sentence in English: at the other level what happens in the rest of the world also depends on whether and how the eu and the us are able to react to events together
+First sentence in French: À un autre niveau ce qui se produit dans le reste du monde dépend également de la capacité de l’union européenne et des États unis à réagir ensemble aux événements et de la manière dont ils réagissent
+Epoch 1/1
+24s - loss: 3.5924 - acc: 0.5556
+Training sequences 60.0 % to 61.0 %
+First sentence in English: consumer rights are one of the main pillars of the internal market
+First sentence in French: les droits du consommateur sont l'un des grands piliers du marché intérieur
+Epoch 1/1
+24s - loss: 3.5306 - acc: 0.5582
+Training sequences 61.0 % to 62.0 %
+First sentence in English: the public are today dependent on a range of computerised services such as pensions family allowances sickness benefits insurance energy supply and transport
+First sentence in French: les citoyens dépendent aujourd'hui d'un certain nombre de services informatisés tels que les pensions les prestations familiales la sécurité sociale les assurances les approvisionnements énergétiques et les transports
+Epoch 1/1
+24s - loss: 3.5413 - acc: 0.5583
+Training sequences 62.0 % to 63.0 %
+First sentence in English: i am sure mr michel was listening with interest
+First sentence in French: je suis sûr que m UNK vous a écouté avec intérêt
+Epoch 1/1
+24s - loss: 3.5073 - acc: 0.5624
+Training sequences 63.0 % to 64.0 %
+First sentence in English: indeed we share many common interests with iran in spite of our differences of opinion on the nuclear program or on human rights
+First sentence in French: nous partageons en effet de nombreux intérêts avec l'iran en dépit de nos différences d'opinion sur le programme nucléaire ou sur les droits de l'homme
+Epoch 1/1
+24s - loss: 3.5278 - acc: 0.5604
+Training sequences 64.0 % to 65.0 %
+First sentence in English: the dictatorship of the financial markets must be ended and their massive resources should be used to benefit ordinary people through the granting of loans to small businesses affordable mortgages to help UNK and so on
+First sentence in French: il faut mettre un terme à la dictature des marchés financiers et leurs ressources massives devraient être utilisées au profit des citoyens ordinaires via l'octroi de prêts aux petites entreprises de crédits hypothécaires abordables afin d'aider les personnes qui souhaitent acheter un bien immobilier etc
+Epoch 1/1
+24s - loss: 3.5309 - acc: 0.5614
+Training sequences 65.0 % to 66.0 %
+First sentence in English: the european union also needs to demonstrate its true weight in settings such as the world trade organization where its stance has most often been one of passivity and renouncing its own position
+First sentence in French: il faudrait aussi que l'union européenne pèse de tout son poids dans des domaines tels que l'organisation mondiale du commerce où la plupart du temps elle a adopté une attitude passive et de renoncement à ses propres objectifs
+Epoch 1/1
+24s - loss: 3.5583 - acc: 0.5593
+Training sequences 66.0 % to 67.0 %
+First sentence in English: that is the inherent position which is why we are rejecting the compromise
+First sentence in French: c'est la position inhérente et c'est pourquoi nous rejetons le compromis
+Epoch 1/1
+24s - loss: 3.5912 - acc: 0.5562
+Training sequences 67.0 % to 68.0 %
+First sentence in English: i cannot yet reply in any more detail
+First sentence in French: je ne peux pas encore donner de réponse détaillée à ce sujet
+Epoch 1/1
+24s - loss: 3.5663 - acc: 0.5575
+Training sequences 68.0 % to 69.0 %
+First sentence in English: the rapporteur sees a clear role for the european commission in this field but unfortunately this role must be limited as the european union is not a member as such of the international labour organisation
+First sentence in French: le rapporteur considère que la commission européenne a un rôle très net à jouer dans ce domaine alors que ce rôle doit hélas être limité dans la mesure où l'union européenne en tant que telle n'est pas membre de l'oit
+Epoch 1/1
+24s - loss: 3.5553 - acc: 0.5566
+Training sequences 69.0 % to 70.0 %
+First sentence in English: there are very many experiments underway and wherever you go you have the best contacts mr nisticò but others too listen to what the scientists are saying they do not have enough money
+First sentence in French: de très nombreuses tentatives sont entreprises mais où que l' on aille monsieur nisticò vous avez les meilleures relations mais d' autres aussi vous UNK les scientifiques dire qu' ils ne disposent pas d' assez d' argent
+Epoch 1/1
+24s - loss: 3.5757 - acc: 0.5514
+Training sequences 70.0 % to 71.0 %
+First sentence in English: twenty member states of the eu have coastlines
+First sentence in French: vingt États membres de l’ue ont des côtes
+Epoch 1/1
+24s - loss: 3.5925 - acc: 0.5511
+Training sequences 71.0 % to 72.0 %
+First sentence in English: we can provide help from outside but the solution to the problems must be found in yugoslavia itself
+First sentence in French: nous pouvons apporter une aide extérieure mais la solution des problèmes doit être trouvée en yougoslavie
+Epoch 1/1
+24s - loss: 3.5434 - acc: 0.5580
+Training sequences 72.0 % to 73.0 %
+First sentence in English: just after the commission presented its autumn forecasts which indicate that countries such as spain and portugal might well fulfil the criteria
+First sentence in French: leurs déclarations font suite aux prévisions UNK de la commission pour 1997 et qui incluent des pays tels que l'espagne et le portugal parmi les États répondant aux critères
+Epoch 1/1
+24s - loss: 3.4953 - acc: 0.5651
+Training sequences 73.0 % to 74.0 %
+First sentence in English: why could that not become eu law
+First sentence in French: pourquoi ne pourrait on pas en faire une règle européenne
+Epoch 1/1
+24s - loss: 3.5461 - acc: 0.5555
+Training sequences 74.0 % to 75.0 %
+First sentence in English: members may be aware that mr holmes recently UNK major surgery and i am sure that the house will join me in wishing him a speedy recovery
+First sentence in French: les membres de cette assemblée sont peut être au courant que m holmes a subi il y a peu une opération UNK importante et je suis sûr que l'assemblée se UNK à moi pour lui souhaiter un prompt rétablissement
+Epoch 1/1
+24s - loss: 3.5535 - acc: 0.5583
+Training sequences 75.0 % to 76.0 %
+First sentence in English: it sets up a new fund for a new project but it is designed to be tied together with the existing work which is already going on in the participating member states and norway as regards research into these diseases
+First sentence in French: il prévoit un nouveau fonds pour un nouveau projet mais il est conçu pour rester lié au travail qui est déjà en cours dans les États membres participants et en norvège en ce qui concerne la recherche sur ces maladies
+Epoch 1/1
+24s - loss: 3.5515 - acc: 0.5560
+Training sequences 76.0 % to 77.0 %
+First sentence in English: at the same time we wish to say that what is of the greatest importance in the international situation in georgia is georgian democracy
+First sentence in French: en même temps nous tenons à dire que c'est la démocratie qui revêt la plus grande importance dans la situation internationale en géorgie
+Epoch 1/1
+24s - loss: 3.5214 - acc: 0.5594
+Training sequences 77.0 % to 78.0 %
+First sentence in English: i would have been glad if the commission could have taken a line more openly sympathetic to parliament in order to secure parliament's rights and hence the public interest in the transparency and openness of this process
+First sentence in French: j'aurais déjà apprécié à ce sujet que la commission propose une orientation plus claire en faveur du parlement européen afin de garantir au cours de ce processus les droits du parlement et par la même occasion les intérêts des citoyennes et de citoyens en matière de transparence et d'ouverture
+Epoch 1/1
+24s - loss: 3.6405 - acc: 0.5474
+Training sequences 78.0 % to 79.0 %
+First sentence in English: we in the european union must put our voice and whatever weight we have behind them to help them
+First sentence in French: nous devons nous l'union européenne mettre notre voix et l'influence que nous pouvons avoir à leur service
+Epoch 1/1
+24s - loss: 3.5524 - acc: 0.5583
+Training sequences 79.0 % to 80.0 %
+First sentence in English: i urge you to discuss your ideas which are articulated in the report with the expert group
+First sentence in French: je vous exhorte à débattre des idées qui figurent dans le rapport avec le groupe d'experts
+Epoch 1/1
+24s - loss: 3.5297 - acc: 0.5585
+Training sequences 80.0 % to 81.0 %
+First sentence in English: labour market policy measures such as the introduction of minimum wages should also be left to be decided at the national level
+First sentence in French: de même les mesures relatives au marché du travail telles que l'introduction de salaires minimum devraient demeurer du ressort national
+Epoch 1/1
+24s - loss: 3.6184 - acc: 0.5490
+Training sequences 81.0 % to 82.0 %
+First sentence in English: i call on the member states to give due consideration to this point
+First sentence in French: j'appelle les États membres à prendre cette problématique en considération
+Epoch 1/1
+24s - loss: 3.4955 - acc: 0.5627
+Training sequences 82.0 % to 83.0 %
+First sentence in English: mr president honourable members the current international situation is creating special responsibilities for the european union and i should now like to speak to you about the european union foreign policy agenda under the portuguese presidency
+First sentence in French: monsieur le président honorables parlementaires la situation internationale actuelle met l'union européenne face à des responsabilités nouvelles spéciales ce qui m'amène si vous le permettez à vous parler de l'ordre du jour au menu de la présidence portugaise en ce qui concerne la politique étrangère de l'union européenne
+Epoch 1/1
+24s - loss: 3.5379 - acc: 0.5580
+Training sequences 83.0 % to 84.0 %
+First sentence in English: there have been serious beatings people beaten with UNK and UNK altogether they report 150 such incidents in the month of november
+First sentence in French: il y a eu des passages à tabac des gens ont même été battus avec des UNK et des UNK le rapport fait état de 150 incidents de ce genre au mois de novembre
+Epoch 1/1
+24s - loss: 3.6172 - acc: 0.5499
+Training sequences 84.0 % to 85.0 %
+First sentence in English: today mr president i would like to say that while we are in the midst of an economic crisis the political elite must show an example of moderation
+First sentence in French: aujourd'hui monsieur le président je voudrais dire qu'alors que nous traversons une crise économique l'élite politique doit faire montre de modération
+Epoch 1/1
+24s - loss: 3.5070 - acc: 0.5658
+Training sequences 85.0 % to 86.0 %
+First sentence in English: this report is typical of the UNK approach so beloved of this parliament
+First sentence in French: ce rapport est typique de l’approche UNK si chère au présent parlement
+Epoch 1/1
+24s - loss: 3.5497 - acc: 0.5597
+Training sequences 86.0 % to 87.0 %
+First sentence in English: this is the first principle and it is an important lesson to learn from recent events regarding the approach taken by UNK UNK in chad
+First sentence in French: c'est en effet là le premier principe et un enseignement majeur que nous ont apporté les événements récents liés à l'approche adoptée par l'association UNK de UNK au tchad
+Epoch 1/1
+24s - loss: 3.5897 - acc: 0.5525
+Training sequences 87.0 % to 88.0 %
+First sentence in English: we have to be sure that we are not being taken for a ride by second prime minister hun sen whose supporters have been largely responsible for the recent violence and political instability
+First sentence in French: nous devons être certains de ne pas nous faire mener en bateau par le deuxième premier ministre UNK UNK dont les partisans sont largement responsables des violences récentes et de l'instabilité politique
+Epoch 1/1
+24s - loss: 3.5392 - acc: 0.5576
+Training sequences 88.0 % to 89.0 %
+First sentence in English: enlargement to include the ten east and central european countries on 1 may is of historic importance
+First sentence in French: l’élargissement à dix pays d’europe centrale et orientale le 1er mai prochain revêt une importance historique
+Epoch 1/1
+24s - loss: 3.5666 - acc: 0.5570
+Training sequences 89.0 % to 90.0 %
+First sentence in English: that is why it is so important for us as socialists and social democrats that the 5 rate for resale rights should apply to the lowest band
+First sentence in French: c'est pourquoi les socialistes et sociauxdémocrates que nous sommes tenons à ce que la réglementation du droit de suite à 5 s'applique justement à la tranche inférieure
+Epoch 1/1
+24s - loss: 3.5996 - acc: 0.5486
+Training sequences 90.0 % to 91.0 %
+First sentence in English: i also agree that we perhaps should not spend so much time beating our UNK and examining our own UNK rather we should have a look at what other countries have done
+First sentence in French: je suis aussi d'accord sur le fait qu'il n'est pas utile que nous passions notre temps à battre notre UNK et UNK notre UNK mais qu'il vaudrait mieux regarder ce qu'ont fait les autres pays
+Epoch 1/1
+24s - loss: 3.5297 - acc: 0.5637
+Training sequences 91.0 % to 92.0 %
+First sentence in English: mr president ladies and gentlemen i am submitting this explanation of vote because although i voted in favour of most of the paragraphs i would stress that i abstained on paragraph 17
+First sentence in French: monsieur le président chers collègues je soumets cette explication de vote car bien que j'aie voté en faveur de la plupart des paragraphes je tiens à souligner mon abstention sur le paragraphe 17
+Epoch 1/1
+24s - loss: 3.5310 - acc: 0.5573
+Training sequences 92.0 % to 93.0 %
+First sentence in English: because of the impact of 'cheap' ships' registers in particular flag countries in the european community have revised their package of conditions
+First sentence in French: compte tenu de l'impact des registres de navires bon marché les pavillons de la communauté européenne ont révisé l'ensemble de leurs conditions
+Epoch 1/1
+24s - loss: 3.6416 - acc: 0.5468
+Training sequences 93.0 % to 94.0 %
+First sentence in English: it was a great eye UNK for me and has remained with me throughout my life
+First sentence in French: ce fut un grand UNK pour moi et dont le souvenir UNK autant que je UNK
+Epoch 1/1
+24s - loss: 3.4774 - acc: 0.5668
+Training sequences 94.0 % to 95.0 %
+First sentence in English: however this is now no longer possible
+First sentence in French: mais aujourd'hui ce n'est plus possible
+Epoch 1/1
+24s - loss: 3.6296 - acc: 0.5467
+Training sequences 95.0 % to 96.0 %
+First sentence in English: i would like to draw attention to the need to have better facilities for members so that they are able to work more efficiently and to make information policy more effective in which connection there is a need carefully to assess the contributions of the national information offices
+First sentence in French: j’aimerais insister sur le besoin de meilleures installations pour les députés afin qu’ils puissent travailler plus efficacement et la nécessité d’accroître l’efficacité de la politique d’information pour laquelle il faut évaluer soigneusement les contributions des bureaux d’information nationaux
+Epoch 1/1
+24s - loss: 3.6297 - acc: 0.5539
+Training sequences 96.0 % to 97.0 %
+First sentence in English: what is crucial is to have an appropriate sum available to enable a start to be made
+First sentence in French: ce qu'il faut c'est une quantité suffisante pour les aborder
+Epoch 1/1
+24s - loss: 3.5912 - acc: 0.5563
+Training sequences 97.0 % to 98.0 %
+First sentence in English: however the positive aspects are diluted by the failure to demand the implementation of alternative policies that effectively oblige companies to realise their csr
+First sentence in French: toutefois les aspects positifs sont UNK par l'absence de toute demande de mise en œuvre de politiques alternatives qui UNK effectivement les sociétés à satisfaire à leurs obligations en termes de responsabilité sociale des entreprises
+Epoch 1/1
+24s - loss: 3.5400 - acc: 0.5577
+Training sequences 98.0 % to 99.0 %
+First sentence in English: our president whom we elected to office yesterday spoke of how important it is for us to receive the report by the wise men as quickly as possible
+First sentence in French: notre présidente que nous avons élue hier a dit combien il UNK que nous UNK le rapport des sages aussi vite que possible
+Epoch 1/1
+24s - loss: 3.6004 - acc: 0.5539
+Training sequences 99.0 % to 100.0 %
+First sentence in English: suggests that this cell could be supported by a team deployable within the first hours of the crisis could be composed of civilian UNK UNK military and UNK UNK UNK UNK experts and could also benefit from sitcen and UNK intelligence
+First sentence in French: propose que cette cellule soit appuyée par une équipe pouvant être déployée dans les premières heures suivant l'apparition d'une crise composée d'experts civils UNK UNK militaires et UNK militaires UNK UNK et bénéficiant aussi de renseignements du UNK et du UNK et
+Epoch 1/1
+24s - loss: 3.4868 - acc: 0.5639
+Translation of hello : 2 de de
+Translation of how are you : comment nous nous que
+Translation of i like learning french because i am interested in the french culture : je voudrais que que de de de de
+Translation of who ate my cheese that i bought from the market yesterday : les la de de de de de
